@@ -1,0 +1,46 @@
+{
+    "type_breeds":[
+    {
+        "id":1,
+        "tybe" :"Affenpinscher"
+    },
+    {
+        "id":2,
+        "tybe" :"Yorkshire Terrier"
+    },
+    {
+        "id":3,
+        "tybe" :"Akita"
+    },
+    {
+        "id":4,
+        "tybe" :"Bichon Frise"
+    },
+    {
+        "id":5,
+        "tybe" :"Bulldog"
+    },
+    {
+        "id":6,
+        "tybe" :"Bengal"
+    },
+    {
+        "id":7,
+        "tybe" :"Pug"
+    },
+    {
+        "id":8,
+        "tybe" :"Bichon"
+    },
+    {
+        "id":9,
+        "tybe" :"Cavapoo"
+    },
+    {
+        "id":10,
+        "tybe" :"Goldendoodle"
+    }
+
+  ]
+
+}
